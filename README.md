@@ -1,6 +1,6 @@
 # Persona Bond Patch for Kit's XR-Tech Weapons
 
-![](https://github.com/dave40k/Persona-Bond-Patch-for-Kits-XR-Tech/blob/main/About/Preview.png)
+![](https://github.com/Daria40K/Persona-Bond-Patch-for-Kits-XR-Tech/blob/main/About/Preview.png)
 
 ## Weapons Patch
 - XR pistol
